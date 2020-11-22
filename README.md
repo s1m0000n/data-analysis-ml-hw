@@ -15,7 +15,7 @@
 2. Finetuning RuBERT + линейный слой
 
 Подробнее и результаты см. в Classifier_Results.md  
-TDDR: BERT+Linear NN > BERT + Linear SVM, но очень близко
+TLDR: BERT+Linear NN > BERT + Linear SVM, но очень близко
 
 Ноутбуки: SentimentSVM, SentimentFinetune  
 [Colab SVM](https://colab.research.google.com/drive/1YNBVBHDsTRsBFqFmrBNXO7U5ui4nuCbC?usp=sharing), [Colab Finetune](https://colab.research.google.com/drive/1p8El-WsGPZ7f60Z3984u2v0QJzTSM1UT?usp=sharing)
